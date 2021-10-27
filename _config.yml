@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Theoretical Physicist at Rutgers University"
 title_separator          : "-"
-name                     : &name "Edward D. Ramirez"
+name                     : &name "Test"
 description              : &description "Personal Webpage"
 url                      : https://edwarddramirez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Z-yRuc0AAAAJ&hl=en"
   email            : "edwardramirez@physics.rutgers.edu"
   researchgate     :  "https://www.researchgate.net/scientific-contributions/Edward-D-Ramirez-2141809192"
-  uri              :
+  uri              :  "http://cgisvr.physics.rutgers.edu/cgi-bin/physdb/genpip.pl?RamirezE"
   bitbucket        :
   codepen          :
   dribbble         :
