@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Edward D. Ramirez"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Edward D. Ramirez"
-description              : &description "Theoretical Physicist at Rutgers University"
+description              : &description "academincpages"
 url                      : https://edwarddramirez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edwarddramirez/edwarddramirez.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "Theoretical Physicist"
   location         : "Piscataway, NJ"
   employer         : "Rutgers University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Z-yRuc0AAAAJ&hl=en"
   email            : "edwardramirez@physics.rutgers.edu"
   researchgate     :  "https://www.researchgate.net/scientific-contributions/Edward-D-Ramirez-2141809192"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "edwarddramirez"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
