@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Theoretical Physicist at Rutgers University"
+title                    : "academicpages"
 title_separator          : "-"
 name                     : &name "Test"
-description              : &description "Personal Webpage"
+description              : &description "academicpages"
 url                      : https://edwarddramirez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "edwarddramirez/edwarddramirez.github.io"
