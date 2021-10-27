@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Theoretical Physics, Rutgers University, 2024 (expected)
+  * Advisor: Matthew R. Buckley
+* B.S. in Physics, University of Florida, 2015 - 2019
+  * Advisor: Stephen J. Hagen
+* B.S. in Mathematics, University of Florida, 2015 - 2019
 
 Work experience
 ======
