@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Edward D. Ramirez"
 title_separator          : "-"
-name                     : &name "Test"
+name                     : &name "Edward D. Ramirez"
 description              : &description "Personal Webpage"
 url                      : https://edwarddramirez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Edward D. Ramirez"
+  name             : "est"
   avatar           : "profile.png"
   bio              : "Theoretical Physicist"
   location         : "Piscataway, NJ"
