@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Theoretical Physicist at Rutgers University"
+title: "Summary of Work"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
