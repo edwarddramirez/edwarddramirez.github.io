@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "The quantitative measure and statistical distribution of fame"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/fame
+excerpt: 'This paper presents a framework for quantifying fame and deducing a statistical distribution for it given a population and audience.'
+date: 2018-07-06
+venue: 'PLOS ONE'
+paperurl: 'https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0200196&type=printable'
+citation: 'Ramirez ED, Hagen SJ (2018) The quantitative measure and statistical distribution of fame. PLOS ONE 13(7): e0200196. https://doi.org/10.1371/journal.pone.0200196'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Description here.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ramirez ED, Hagen SJ (2018) The quantitative measure and statistical distribution of fame. PLOS ONE 13(7): e0200196. https://doi.org/10.1371/journal.pone.0200196
