@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Theoretical Physics | Rutgers University | 2019 - 2024
-* B.S. Physics, *magna cum laude* | University of Florida | 2015 - 2019
-* B.S. Mathematics, *magna cum laude* | University of Florida | 2015 - 2019
+* Ph.D. Theoretical Physics &#124; Rutgers University &#124; 2019 - 2024
+* B.S. Physics, *magna cum laude* &#124; University of Florida &#124; 2015 - 2019
+*  B.S. Mathematics, *magna cum laude* &#124; University of Florida &#124; 2015 - 2019
 
 ---
 
@@ -81,8 +81,8 @@ Talks
 
 Awards and Fellowships
 ======
-* SAS Dean's Fellowship | Rutgers University | Sep 2019 - May 2020
-* Machen Florida Opportunity Scholarship | University of Florida | Aug 2015 - May 2019
+* SAS Dean's Fellowship &#124; Rutgers University &#124; Sep 2019 - May 2020
+* Machen Florida Opportunity Scholarship &#124; University of Florida &#124; Aug 2015 - May 2019
 
 ---
 <!-- Teaching
