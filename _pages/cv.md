@@ -57,7 +57,7 @@ Teaching Experience
     * Teaching recitations, grading assignments, office hours, and proctoring exams
   
 ### Graduate Student Instructor | Physics 203, 204 | May 2020 - Aug 2020
-* Supervisor: Abdelbaki Brahmia
+* Supervisor: Abdelbaki Brahmia, Roy Montalvo
 * Duties included: 
     * Teaching recitations, grading assignments, and office hours
 
