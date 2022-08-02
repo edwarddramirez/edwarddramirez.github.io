@@ -9,4 +9,4 @@ author_profile: true
 Here, we make available the code used to set constraints on dark matter subhalos using wide binaries. \
 \
 Source paper: <a href="https://arxiv.org/abs/1712.06615"> Constraining Dark Matter Subhalos With Gaia Wide Binaries</a> \
-Github: <a href="https://github.com/edwarddramirez/dmbinaries">dmbinaries</a>
+Code: <a href="https://github.com/edwarddramirez/dmbinaries">dmbinaries</a>
