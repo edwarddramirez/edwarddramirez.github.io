@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-#### Ph.D. Theoretical Physics | Rutgers University | 2024
-#### B.S. Physics, *magna cum laude* | University of Florida, 2019
-#### B.S. Mathematics, *magna cum laude* | University of Florida, 2019
+## Ph.D. Theoretical Physics | Rutgers University | 2024
+## B.S. Physics, *magna cum laude* | University of Florida, 2019
+## B.S. Mathematics, *magna cum laude* | University of Florida, 2019
+\
+
+---
 
 Research experience
 ======
@@ -30,6 +33,7 @@ Research experience
     * Devising a quantitative description of fame to analyze its statistical properties 
     * Constructing and testing a model of bioluminscence in *Vibrio fischeri*
     * Maintaining and writing manuals for lab equipment (e.g., spectrofluorometer)
+    
 #### Condensed Matter Physics | University of Florida | Sep 2015 – Aug 2017
 * Advisor: David B. Tanner
 * Duties included: 
@@ -37,41 +41,56 @@ Research experience
   *	Setting up low-temperature experiments for fellow graduate students
   * Maintaining and teaching others to use a microscope spectrometer
 
+---
+
 Teaching Experience
 ======
-#### Course Administrator | Physics 115, 116
+
+## Course Administrator | Physics 115, 116
 * Supervisor: Geraldine Cochran
   * Duties included: Assisting supervisor with course organization and management, teaching recitations, grading assignments, office hours, and proctoring exams
-#### Graduate Student Instructor | Physics 115, 116 | 
+  
+## Graduate Student Instructor | Physics 115, 116 | 
 * Supervisor: Geraldine Cochran
   * Duties included: Teaching recitations, grading assignments, office hours, and proctoring exams
-#### Graduate Student Instructor | Physics 203, 204 | 
+  
+## Graduate Student Instructor | Physics 203, 204 | 
 * Supervisor: Abdelbaki Brahmia
   * Duties included: Teaching recitations, grading assignments, and office hours
+
+---
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+---
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+---
+
 Awards and Fellowships
 ======
-#### SAS Dean's Fellowship | Rutgers University | Sep 2019 - May 2020
-#### Machen Florida Opportunity Scholarship | University of Florida | Aug 2015 - May 2019
+## SAS Dean's Fellowship | Rutgers University | Sep 2019 - May 2020
+## Machen Florida Opportunity Scholarship | University of Florida | Aug 2015 - May 2019
+\
 
+---
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
+
+
 Skills
 ======
 * Programming
