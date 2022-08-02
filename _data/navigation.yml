@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Code"
-    url: /code/
+  - title: "Code/Data"
+    url: /code_data/
    
   - title: "CV"
     url: /cv/
