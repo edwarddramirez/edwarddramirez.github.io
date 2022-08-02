@@ -104,7 +104,7 @@ Skills
     * Terminal
     * Github
 * Languages
-  * English (Full Proficiency)
+  * English (Bilingual Proficiency)
   * Spanish (Native Proficiency)
   * Swedish (Limited Working Proficiency)
 * Problem-solving
