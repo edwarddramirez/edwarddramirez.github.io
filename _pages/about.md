@@ -12,7 +12,12 @@ I am a Ph.D. candidate at Rutgers University studying high energy phenomenology 
 
 Research
 ======
-Currently, my main focus is studying the nature of the dark matter. It provides us with very rich problems that are both beyond the Standard Model and beyond the ΛCDM model. So far, I have set constraints on the abundance of dark matter substructure within our Galaxy using observations of *Gaia* wide binaries (arXiv:2207.02214). At some point in the future, I plan on constraining dark matter using different astrophysical datasets. However, currently, I am working at studying dark matter at microscopic scales by finding ways to constrain "swino" dark matter model ( arXiv:2204.05283) using collider data at the LHC. The model has been proposed to resolve the W-mass anomaly. In the future, I will try to implement machine learning to resolve important problems to study the dark matter. 
+Currently, my main focus is studying the nature of the dark matter. It provides us with very rich problems that are both beyond the Standard Model and beyond the ΛCDM model. So far, I have 
+set constraints on the abundance of dark matter substructure within our Galaxy using observations of *Gaia* wide binaries ([arXiv:2209.08100](https://arxiv.org/abs/2209.08100)). 
+At some point in the future, I plan on constraining dark matter using different astrophysical datasets. 
+However, currently, I am working at studying dark matter at microscopic scales by finding ways to constrain "swino" dark matter model ([arXiv:2204.05283] (https://arxiv.org/abs/2204.05283)
+ using collider data at the LHC. The model has been proposed to resolve the W-mass anomaly. In the future, I will try to implement machine learning to resolve 
+ important problems to study the dark matter. 
 
 History
 ======
