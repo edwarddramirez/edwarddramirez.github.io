@@ -27,10 +27,6 @@ studies of the dark matter.
 Currently, I am trying to find a way to better resolve the population of point sources measured by the
 Fermi-LAT satellite. This would contribute to the arguments of whether or not the excess of gamma-rays in the 
 galactic center are due to the dark matter or a faint population of point sources. 
-# However, currently, I am working at studying dark matter at microscopic scales by finding ways to constrain 
-# "swino" dark matter model ([arXiv:2204.05283] (https://arxiv.org/abs/2204.05283)
-# using collider data at the LHC. The model has been proposed to resolve the W-mass anomaly. 
-# In the future, I will try to implement machine learning to resolve important problems to study the dark matter. 
 
 Goals
 ======
