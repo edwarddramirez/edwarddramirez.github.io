@@ -86,6 +86,7 @@ author:
   location         : "Piscataway, NJ"
   employer         : "Rutgers University"
   pubmed           : 
+  arxiv            : "https://arxiv.org/search/?query=Ramirez%2C+Edward+D&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
   googlescholar    : "https://scholar.google.com/citations?user=Z-yRuc0AAAAJ&hl=en"
   email            : "edwardramirez@physics.rutgers.edu"
   researchgate     :  "https://www.researchgate.net/scientific-contributions/Edward-D-Ramirez-2141809192"
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/edwarddramirez"
+  github           : "edwarddramirez"
   goodreads        : "https://www.goodreads.com/user/show/157688866-edward-ramirez"
   google_plus      :
   keybase          :
