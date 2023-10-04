@@ -30,7 +30,8 @@ galactic center are due to the dark matter or a faint population of point source
 
 Goals
 ======
-I live by three fundamental virtues.
+In Progress
+<!-- I live by three fundamental virtues.
 
 1. Understanding
 2. Love
@@ -49,14 +50,15 @@ that which makes you deserving of the gift. In my context, *that* is my *entelec
 By the very nature of my mission, I don't seek an end. Beyond my pursuit for the truth,
 I hope to continue on the legacy of my loved ones by helping them live a better life, if not their best. 
 I want to meet as many people as I can, as many types of people as I can, to learn and get better guidance
-on where to go from here. Hopefully, I can return the favor to everyone some day.
+on where to go from here. Hopefully, I can return the favor to everyone some day. -->
 
 
 Interests
 ======
-Outside of my research, I enjoy talking to people and getting to know different perspectives of life. 
+In Progress
+<!-- Outside of my research, I enjoy talking to people and getting to know different perspectives of life. 
 I like to spend time learning other things ranging from philosophy to some more on-hands abilities. 
 These days, I dedicate my free time to exercising, chatting, listening to podcasts, reading, and committing 
-to a hobby.
+to a hobby. -->
 
 
