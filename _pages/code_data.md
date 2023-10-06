@@ -11,7 +11,7 @@ Description: Code used to fit Fermi-LAT data with diffuse templates and a flexib
 Source paper: TBD \
 Code: <a href="https://github.com/edwarddramirez/gcebulge">gcebulge</a>
 
-<h2>Wavelet Analysis to Resolve Point Sources in the *Fermi-LAT* $\gamma$-ray Data</h2>
+<h2>Wavelet Analysis to Resolve Point Sources in the Fermi-LAT $\gamma$-ray Data</h2>
 Description: Code that runs a wavelet-based algorithm for detecting point sources in the *Fermi-LAT* $\gamma$-ray Data. \
 \
 Source paper: TBD \
